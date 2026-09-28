@@ -41,5 +41,4 @@ plt.ylabel("Increase in Unit Sale (Y)")
 plt.legend(loc='upper left')
 plt.grid(alpha=0.4)
 
-plt.show()git switch dev
-git switch -c feature/ML-pr5
+plt.show()
